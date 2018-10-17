@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Suelta el listón de tu pelo 
 Use the left arrow to go back!
